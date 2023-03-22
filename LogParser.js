@@ -87,7 +87,7 @@ class Log {
     }
 
     classify() {
-        if (this.message.indexOf("<")) return;
+        if (this.message.indexOf("<") != -1) return;
 
         for (let key in TYPE_INCLUSIONS) {
             for (let text of TYPE_INCLUSIONS[key]) {
