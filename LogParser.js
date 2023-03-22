@@ -87,7 +87,10 @@ class Log {
     }
 
     classify() {
-        if (this.message.indexOf("<") != -1) return;
+
+	const REJECTED_CHARACTERS = ["<", ">", "/", "*", ";"]
+	for(let rc of REJECTED_CHARACTERS)
+	    if(this.message.indexOf(rc) != -1) return;
 
         for (let key in TYPE_INCLUSIONS) {
             for (let text of TYPE_INCLUSIONS[key]) {
