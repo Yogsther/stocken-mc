@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 // Import Config
-const Config = require('./config.js');
+const Config = require('./Config.js');
 const LogParser = require('./LogParser.js');
 
 const config = new Config();
