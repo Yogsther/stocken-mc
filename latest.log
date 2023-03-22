@@ -1,0 +1,76 @@
+[00:01:25] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:01:30] [Server thread/INFO]: [Not Secure] [Server] /kick agman10
+[00:03:58] [Server thread/INFO]: Agman10 has made the advancement [Not Today, Thank You]
+[00:07:21] [Server thread/INFO]: Bvod lost connection: Disconnected
+[00:07:21] [Server thread/INFO]: Bvod left the game
+[00:08:38] [Server thread/INFO]: 0x6F6B lost connection: Disconnected
+[00:08:38] [Server thread/INFO]: 0x6F6B left the game
+[00:08:49] [Server thread/INFO]: Agman10 lost connection: Disconnected
+[00:08:49] [Server thread/INFO]: Agman10 left the game
+[08:47:05] [User Authenticator #15/INFO]: UUID of player 0x6F6B is 40d1f02b-437d-4e19-8ddb-29c5b7ed4f0a
+[08:47:05] [Server thread/INFO]: 0x6F6B joined the game
+[08:47:05] [Server thread/INFO]: 0x6F6B[/192.168.50.1:54171] logged in with entity id 111573 at ([world]1493.6962647796295, 11.0, 730.7561309284956)
+[09:18:53] [Server thread/INFO]: 0x6F6B has made the advancement [Diamonds!]
+[09:30:02] [Server thread/INFO]: 0x6F6B lost connection: Disconnected
+[09:30:02] [Server thread/INFO]: 0x6F6B left the game
+[09:32:45] [User Authenticator #16/INFO]: UUID of player 0x6F6B is 40d1f02b-437d-4e19-8ddb-29c5b7ed4f0a
+[09:32:45] [Server thread/INFO]: 0x6F6B joined the game
+[09:32:45] [Server thread/INFO]: 0x6F6B[/192.168.50.1:50738] logged in with entity id 118590 at ([world]1493.5599373392265, -30.875000152068715, 698.5227740331288)
+[09:32:51] [Server thread/INFO]: 0x6F6B drowned
+[09:36:25] [Server thread/INFO]: 0x6F6B lost connection: Disconnected
+[09:36:25] [Server thread/INFO]: 0x6F6B left the game
+[11:12:18] [User Authenticator #17/INFO]: UUID of player 0x6F6B is 40d1f02b-437d-4e19-8ddb-29c5b7ed4f0a
+[11:12:18] [Server thread/INFO]: 0x6F6B joined the game
+[11:12:18] [Server thread/INFO]: 0x6F6B[/192.168.50.1:65161] logged in with entity id 119737 at ([world]1495.3667512684915, -29.0, 692.5456782176763)
+[11:12:50] [Server thread/INFO]: 0x6F6B lost connection: Disconnected
+[11:12:50] [Server thread/INFO]: 0x6F6B left the game
+[11:15:33] [User Authenticator #18/INFO]: UUID of player 0x6F6B is 40d1f02b-437d-4e19-8ddb-29c5b7ed4f0a
+[11:15:33] [Server thread/INFO]: 0x6F6B joined the game
+[11:15:33] [Server thread/INFO]: 0x6F6B[/192.168.50.1:49171] logged in with entity id 119997 at ([world]1493.870714345467, -29.0, 694.4634067856963)
+[11:16:02] [Server thread/INFO]: 0x6F6B lost connection: Disconnected
+[11:16:02] [Server thread/INFO]: 0x6F6B left the game
+[15:53:34] [User Authenticator #19/INFO]: UUID of player Bvod is b4588952-15c4-4eed-a810-440481f0fc8b
+[15:53:34] [Server thread/INFO]: Bvod joined the game
+[15:53:34] [Server thread/INFO]: Bvod[/94.254.18.136:50737] logged in with entity id 120331 at ([world]1515.7547142464025, 64.0, 790.1584770021843)
+[16:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48040ms or 960 ticks behind
+[16:29:28] [Server thread/INFO]: Bvod has made the advancement [What a Deal!]
+[16:46:02] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.376737669160093
+[16:46:05] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.4547298891875471
+[16:46:05] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.5228570586584738
+[16:49:24] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.31578024627376866
+[16:49:30] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.3146451941668502
+[16:49:30] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.7771323923680082
+[16:49:39] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.382163615997527
+[16:53:34] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.34927760280078246
+[16:57:33] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.3935755679590329
+[16:57:34] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.37267740353183854
+[16:57:34] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.30980063901677113
+[17:04:21] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.3307819956964124
+[17:04:21] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.316295626745557
+[17:04:21] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.8094900036633987
+[17:04:22] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.26914087771734785
+[17:04:22] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.7553351052484629
+[17:04:23] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.4888208652562298
+[17:04:23] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.9663918688720514
+[17:04:29] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.4477850969076371
+[17:04:29] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 1.0095034251614834
+[17:04:29] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 1.572814436626004
+[17:05:22] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.3224049831969751
+[17:07:29] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.35963650292706006
+[17:07:33] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.2658574215088265
+[17:09:55] [Server thread/INFO]: Bvod lost connection: Disconnected
+[17:09:55] [Server thread/INFO]: Bvod left the game
+[17:13:04] [User Authenticator #20/INFO]: UUID of player Bvod is b4588952-15c4-4eed-a810-440481f0fc8b
+[17:13:04] [Server thread/INFO]: Bvod joined the game
+[17:13:04] [Server thread/INFO]: Bvod[/94.254.18.136:53932] logged in with entity id 174332 at ([world]-1962.067997981761, 89.0, 243.9530791256135)
+[17:15:23] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.27137242785528315
+[17:24:56] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.446909348677309
+[17:25:43] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.28714187982454575
+[17:27:28] [Server thread/INFO]: Bvod was slain by Enderman
+[17:29:08] [Server thread/INFO]: Bvod fell from a high place
+[17:30:55] [Server thread/WARN]: Boat (vehicle of Bvod) moved wrongly! 0.7930679880082607
+[17:32:57] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.40448518185837656
+[17:32:57] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.8476485899478803
+[17:38:41] [Server thread/WARN]: Horse (vehicle of Bvod) moved wrongly! 0.26383592887646046
+[17:41:09] [Server thread/INFO]: Bvod lost connection: Disconnected
+[17:41:09] [Server thread/INFO]: Bvod left the game
