@@ -43,7 +43,7 @@ client.on('ready', () => {
 });
 
 function set_bot_status() {
-    client.user.setActivity(`${player_count} players online`, { type: 'WATCHING' })
+    client.user.setActivity(`${player_count} players online`)
 }
 
 client.login(config.get_crucial("discord_token", token => token.length > 50));
