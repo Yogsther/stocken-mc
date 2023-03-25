@@ -46,3 +46,4 @@ function set_bot_status() {
 }
 
 client.login(config.get_crucial("discord_token", token => token.length > 50));
+set_bot_status()
