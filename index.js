@@ -39,6 +39,7 @@ const interval = setInterval(() => {
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
+    set_bot_status()
 });
 
 function set_bot_status() {
@@ -46,4 +47,3 @@ function set_bot_status() {
 }
 
 client.login(config.get_crucial("discord_token", token => token.length > 50));
-set_bot_status()
