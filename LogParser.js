@@ -88,9 +88,9 @@ class Log {
 
     classify() {
 
-	const REJECTED_CHARACTERS = ["<", ">", "/", "*", ";"]
-	for(let rc of REJECTED_CHARACTERS)
-	    if(this.message.indexOf(rc) != -1) return;
+        const REJECTED_CHARACTERS = ["<", ">", "/", "*", ";"]
+        for (let rc of REJECTED_CHARACTERS)
+            if (this.message.indexOf(rc) != -1) return;
 
         for (let key in TYPE_INCLUSIONS) {
             for (let text of TYPE_INCLUSIONS[key]) {
@@ -119,7 +119,6 @@ module.exports = class LogParser {
     constructor(log_path) {
         this.log_path = log_path;
         this.log = [];
-
         this.load();
     }
 

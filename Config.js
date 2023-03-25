@@ -17,8 +17,24 @@ module.exports = class Config {
         this.load();
     }
 
-    get(key) {
-        return this.values[key];
+    get(key, fallback = () => { }) {
+        if (this.values.hasOwnProperty(key)) {
+            return this.values[key];
+        } else {
+            return fallback();
+        }
+    }
+
+    get_crucial(key, verify = (value) => { }) {
+        if (this.values.hasOwnProperty(key)) {
+            if (verify(this.values[key])) {
+                return this.values[key];
+            } else {
+                throw new Error(`Config value for '${key}' is invalid.`);
+            }
+        } else {
+            throw new Error(`Config value for '${key}' is missing.`);
+        }
     }
 
     set(key, value) {
